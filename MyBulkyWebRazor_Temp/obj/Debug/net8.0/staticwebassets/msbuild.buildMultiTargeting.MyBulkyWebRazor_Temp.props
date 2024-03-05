@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyBulkyWebRazor_Temp.props" />
+</Project>

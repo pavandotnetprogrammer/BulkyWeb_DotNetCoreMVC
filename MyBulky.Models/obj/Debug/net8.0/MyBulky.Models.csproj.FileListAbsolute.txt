@@ -1,0 +1,12 @@
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\bin\Debug\net8.0\MyBulky.Models.deps.json
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\bin\Debug\net8.0\MyBulky.Models.dll
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\bin\Debug\net8.0\MyBulky.Models.pdb
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\MyBulky.Models.csproj.AssemblyReference.cache
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\MyBulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\MyBulky.Models.AssemblyInfoInputs.cache
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\MyBulky.Models.AssemblyInfo.cs
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\MyBulky.Models.csproj.CoreCompileInputs.cache
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\MyBulky.Models.dll
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\refint\MyBulky.Models.dll
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\MyBulky.Models.pdb
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Models\obj\Debug\net8.0\ref\MyBulky.Models.dll
