@@ -11,6 +11,7 @@ H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.DataAccess\obj\Deb
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.DataAccess\obj\Debug\net8.0\MyBulky.DataAccess.AssemblyInfoInputs.cache
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.DataAccess\obj\Debug\net8.0\MyBulky.DataAccess.AssemblyInfo.cs
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.DataAccess\obj\Debug\net8.0\MyBulky.DataAccess.csproj.CoreCompileInputs.cache
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.DataAccess\obj\Debug\net8.0\MyBulky.DataAccess.sourcelink.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.DataAccess\obj\Debug\net8.0\MyBulky.DataAccess.csproj.CopyComplete
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.DataAccess\obj\Debug\net8.0\MyBulky.DataAccess.dll
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.DataAccess\obj\Debug\net8.0\refint\MyBulky.DataAccess.dll

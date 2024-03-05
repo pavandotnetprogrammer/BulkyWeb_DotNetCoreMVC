@@ -13,6 +13,7 @@ H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\DI_Service_LifeTimes\obj\D
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\DI_Service_LifeTimes\obj\Debug\net8.0\DI_Service_LifeTimes.MvcApplicationPartsAssemblyInfo.cache
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\DI_Service_LifeTimes\obj\Debug\net8.0\DI_Service_LifeTimes.RazorAssemblyInfo.cache
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\DI_Service_LifeTimes\obj\Debug\net8.0\DI_Service_LifeTimes.RazorAssemblyInfo.cs
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\DI_Service_LifeTimes\obj\Debug\net8.0\DI_Service_LifeTimes.sourcelink.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\DI_Service_LifeTimes\obj\Debug\net8.0\staticwebassets.build.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\DI_Service_LifeTimes\obj\Debug\net8.0\staticwebassets.development.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\DI_Service_LifeTimes\obj\Debug\net8.0\staticwebassets\msbuild.DI_Service_LifeTimes.Microsoft.AspNetCore.StaticWebAssets.props

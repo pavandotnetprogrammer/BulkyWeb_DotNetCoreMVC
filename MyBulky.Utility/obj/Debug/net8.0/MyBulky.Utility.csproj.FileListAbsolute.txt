@@ -1,10 +1,12 @@
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\bin\Debug\net8.0\MyBulky.Utility.deps.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\bin\Debug\net8.0\MyBulky.Utility.dll
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\bin\Debug\net8.0\MyBulky.Utility.pdb
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\MyBulky.Utility.csproj.AssemblyReference.cache
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\MyBulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\MyBulky.Utility.AssemblyInfoInputs.cache
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\MyBulky.Utility.AssemblyInfo.cs
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\MyBulky.Utility.csproj.CoreCompileInputs.cache
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\MyBulky.Utility.sourcelink.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\MyBulky.Utility.dll
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\refint\MyBulky.Utility.dll
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulky.Utility\obj\Debug\net8.0\MyBulky.Utility.pdb

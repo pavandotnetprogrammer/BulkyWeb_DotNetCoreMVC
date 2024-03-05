@@ -140,6 +140,7 @@ H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulkyWebRazor_Temp\obj\D
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulkyWebRazor_Temp\obj\Debug\net8.0\MyBulkyWebRazor_Temp.MvcApplicationPartsAssemblyInfo.cache
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulkyWebRazor_Temp\obj\Debug\net8.0\MyBulkyWebRazor_Temp.RazorAssemblyInfo.cache
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulkyWebRazor_Temp\obj\Debug\net8.0\MyBulkyWebRazor_Temp.RazorAssemblyInfo.cs
+H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulkyWebRazor_Temp\obj\Debug\net8.0\MyBulkyWebRazor_Temp.sourcelink.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulkyWebRazor_Temp\obj\Debug\net8.0\staticwebassets.build.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulkyWebRazor_Temp\obj\Debug\net8.0\staticwebassets.development.json
 H:\Projects\DotNet Practice\BhrugenPatelDotNetCoreMVC\MyBulkyWebRazor_Temp\obj\Debug\net8.0\staticwebassets\msbuild.MyBulkyWebRazor_Temp.Microsoft.AspNetCore.StaticWebAssets.props
